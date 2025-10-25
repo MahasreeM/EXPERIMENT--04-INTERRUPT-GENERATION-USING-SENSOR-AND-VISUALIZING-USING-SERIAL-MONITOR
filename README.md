@@ -277,7 +277,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 
-![exp4 image](https://github.com/user-attachments/assets/f4e4278d-e51d-4219-8a89-39a581392d1b)
+<img width="1919" height="1199" alt="Screenshot 2025-10-25 093626" src="https://github.com/user-attachments/assets/72451c61-5a29-4491-8e34-f54d5a1a7432" />
 
  
  ## Circuit board :
